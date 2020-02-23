@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K04.Kalitim\bin\Debug\K04.Kalitim.exe.config
+C:\Users\yskah\Desktop\OOP\K04.Kalitim\bin\Debug\K04.Kalitim.exe
+C:\Users\yskah\Desktop\OOP\K04.Kalitim\bin\Debug\K04.Kalitim.pdb
+C:\Users\yskah\Desktop\OOP\K04.Kalitim\obj\Debug\K04.Kalitim.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K04.Kalitim\obj\Debug\K04.Kalitim.exe
+C:\Users\yskah\Desktop\OOP\K04.Kalitim\obj\Debug\K04.Kalitim.pdb

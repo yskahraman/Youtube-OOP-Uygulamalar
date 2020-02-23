@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K06.ThisPartialveAbstract\bin\Debug\K06.ThisPartialveAbstract.exe.config
+C:\Users\yskah\Desktop\OOP\K06.ThisPartialveAbstract\bin\Debug\K06.ThisPartialveAbstract.exe
+C:\Users\yskah\Desktop\OOP\K06.ThisPartialveAbstract\bin\Debug\K06.ThisPartialveAbstract.pdb
+C:\Users\yskah\Desktop\OOP\K06.ThisPartialveAbstract\obj\Debug\K06.ThisPartialveAbstract.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K06.ThisPartialveAbstract\obj\Debug\K06.ThisPartialveAbstract.exe
+C:\Users\yskah\Desktop\OOP\K06.ThisPartialveAbstract\obj\Debug\K06.ThisPartialveAbstract.pdb

@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K05.StaticClass\bin\Debug\K05.StaticClass.exe.config
+C:\Users\yskah\Desktop\OOP\K05.StaticClass\bin\Debug\K05.StaticClass.exe
+C:\Users\yskah\Desktop\OOP\K05.StaticClass\bin\Debug\K05.StaticClass.pdb
+C:\Users\yskah\Desktop\OOP\K05.StaticClass\obj\Debug\K05.StaticClass.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K05.StaticClass\obj\Debug\K05.StaticClass.exe
+C:\Users\yskah\Desktop\OOP\K05.StaticClass\obj\Debug\K05.StaticClass.pdb

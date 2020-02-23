@@ -1,0 +1,5 @@
+C:\Users\yskah\Desktop\OOP\K08.DelegelerInceleme\bin\Debug\K08.DelegelerInceleme.exe.config
+C:\Users\yskah\Desktop\OOP\K08.DelegelerInceleme\bin\Debug\K08.DelegelerInceleme.exe
+C:\Users\yskah\Desktop\OOP\K08.DelegelerInceleme\bin\Debug\K08.DelegelerInceleme.pdb
+C:\Users\yskah\Desktop\OOP\K08.DelegelerInceleme\obj\Debug\K08.DelegelerInceleme.exe
+C:\Users\yskah\Desktop\OOP\K08.DelegelerInceleme\obj\Debug\K08.DelegelerInceleme.pdb

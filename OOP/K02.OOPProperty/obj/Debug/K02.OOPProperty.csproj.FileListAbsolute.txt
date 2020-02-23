@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K02.OOPProperty\bin\Debug\K02.OOPProperty.exe.config
+C:\Users\yskah\Desktop\OOP\K02.OOPProperty\bin\Debug\K02.OOPProperty.exe
+C:\Users\yskah\Desktop\OOP\K02.OOPProperty\bin\Debug\K02.OOPProperty.pdb
+C:\Users\yskah\Desktop\OOP\K02.OOPProperty\obj\Debug\K02.OOPProperty.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K02.OOPProperty\obj\Debug\K02.OOPProperty.exe
+C:\Users\yskah\Desktop\OOP\K02.OOPProperty\obj\Debug\K02.OOPProperty.pdb

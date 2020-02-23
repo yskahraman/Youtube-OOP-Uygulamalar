@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K03.ArrayListveList\bin\Debug\K03.ArrayListveList.exe.config
+C:\Users\yskah\Desktop\OOP\K03.ArrayListveList\bin\Debug\K03.ArrayListveList.exe
+C:\Users\yskah\Desktop\OOP\K03.ArrayListveList\bin\Debug\K03.ArrayListveList.pdb
+C:\Users\yskah\Desktop\OOP\K03.ArrayListveList\obj\Debug\K03.ArrayListveList.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K03.ArrayListveList\obj\Debug\K03.ArrayListveList.exe
+C:\Users\yskah\Desktop\OOP\K03.ArrayListveList\obj\Debug\K03.ArrayListveList.pdb

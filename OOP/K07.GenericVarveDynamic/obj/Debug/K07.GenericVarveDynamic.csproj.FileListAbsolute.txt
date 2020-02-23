@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K07.GenericVarveDynamic\bin\Debug\K07.GenericVarveDynamic.exe.config
+C:\Users\yskah\Desktop\OOP\K07.GenericVarveDynamic\bin\Debug\K07.GenericVarveDynamic.exe
+C:\Users\yskah\Desktop\OOP\K07.GenericVarveDynamic\bin\Debug\K07.GenericVarveDynamic.pdb
+C:\Users\yskah\Desktop\OOP\K07.GenericVarveDynamic\obj\Debug\K07.GenericVarveDynamic.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K07.GenericVarveDynamic\obj\Debug\K07.GenericVarveDynamic.exe
+C:\Users\yskah\Desktop\OOP\K07.GenericVarveDynamic\obj\Debug\K07.GenericVarveDynamic.pdb

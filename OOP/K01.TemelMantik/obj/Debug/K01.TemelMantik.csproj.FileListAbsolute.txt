@@ -1,0 +1,6 @@
+C:\Users\yskah\Desktop\OOP\K01.TemelMantik\bin\Debug\K01.TemelMantik.exe.config
+C:\Users\yskah\Desktop\OOP\K01.TemelMantik\bin\Debug\K01.TemelMantik.exe
+C:\Users\yskah\Desktop\OOP\K01.TemelMantik\bin\Debug\K01.TemelMantik.pdb
+C:\Users\yskah\Desktop\OOP\K01.TemelMantik\obj\Debug\K01.TemelMantik.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\OOP\K01.TemelMantik\obj\Debug\K01.TemelMantik.exe
+C:\Users\yskah\Desktop\OOP\K01.TemelMantik\obj\Debug\K01.TemelMantik.pdb
